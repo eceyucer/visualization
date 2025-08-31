@@ -18,6 +18,14 @@
 *	Apply general design principles to create accessible and equitable data visualizations
 * Use data visualization to tell a story
 
+### Participation Submissions:
+- [Lecture one](participation/lecture_one_04.22.ipynb)
+- Lecture two -- No live coding component
+- [Lecture three](participation/lecture_three_04.29.ipynb)
+- [Lecture four](participation/lecture_four_05.01.ipynb)
+- [Lecture five](participation/lecture_five_05.06.ipynb)
+
+
 ### Rubric:
 
 | Component          | Scoring                 | Requirement                                              |
