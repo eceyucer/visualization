@@ -35,6 +35,13 @@
 * Use data visualization to tell a story  
 - This would be a great project to include in your GitHub Portfolio – put in the effort to make it something worthy of showing prospective employers!
 
+### Submission Details
+- Everything is in the [assignment-3](assignment-3) folder.
+- Visualization 1 details are [here](assignment-3/visualization-one).
+    - Its [markdown file](assignment-3/visualization-one/assignment_3_viz_1.md) breaks everything down, including the visualization, answer to questions and the python notebook.
+- Visualization 2 details are [here](assignment-3/visualization-two).
+    - Its [markdown file](assignment-3/visualization-two/assignment_3_viz_2.md) breaks everything down, including the visualizations, answers to questions, methodology.
+
 ### Rubric:
 
 | Component         | Scoring  | Requirement                                                                 |
@@ -48,7 +55,7 @@
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-* Submission Due Date: `23:59 - 09/05/2025`
+* Submission Due Date: `23:59 - 12/05/2025` -- Extension from Eshta
 * The branch name for your repo should be: `assignment-3`
 * What to submit for this assignment:
     * A folder/directory containing:
